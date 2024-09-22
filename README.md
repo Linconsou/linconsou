@@ -7,8 +7,6 @@
 - 🌱 Atualmente estou estudando JavaScript, sistemas de informação e cibersegurança
 - 🧑‍💻 Todos os meus projetos estão disponíveis no meu github <a href="https://github.com/Linconsou">linconsou</a>
 - 💬 Pergunte-me sobre: JavaScript e Cibersegurança
-- 📫 How to reach me: ...
-- 😄 Pronouns: ELe/He
 - 📚 Hobbies: livros e jiu-jitsu
 
 <h2 align="left">Habilidades ténicas:</h2>
